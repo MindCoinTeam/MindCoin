@@ -1193,7 +1193,10 @@ void MapPort(bool)
 // The second name should resolve to a list of seed addresses.
 
 static const char *strMainNetDNSSeed[][2] = {
-    {"default", "104.207.134.99"},
+    {"node1", "node1.mindcoin.xyz"},
+	{"node2", "node2.mindcoin.xyz"},
+	{"node3", "node3.mindcoin.xyz"},
+	{"node4", "mnd.blockpioneers.info"},
     {NULL, NULL},
 };
 
@@ -1249,7 +1252,7 @@ void ThreadDNSAddressSeed()
 
 unsigned int pnSeed[] =
 {
-    0x1717ba83, 0x3210ce66, 0x3213747b, 0x36c17c20, 0x3e8d27af, 0xc06320a6, 0x6b9b4748, 0xa2fc532c
+	
 };
 
 void DumpAddresses()

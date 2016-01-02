@@ -1,0 +1,4 @@
+02/01/2016 - Update DNS Seed Nodes
+
++ Added Seed Nodes node1.mindcoin.xyz, node2.mindcoin.xyz, node3.mindcoin.xyz, mnd.blockpioneers.info
+- Removed pnSeed Nodes
