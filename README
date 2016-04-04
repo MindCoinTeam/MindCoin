@@ -2,6 +2,9 @@
 http://www.mindcoin.xyz
 https://bitcointalk.org/index.php?topic=1308702.0
 
+** Block Explorer **
+http://mnd.blockpioneers.info/
+
 **Algorithm**: X11
 **Block Reward**: 250 MND
 **Block Halving**: 32000 Blocks
@@ -12,9 +15,13 @@ https://bitcointalk.org/index.php?topic=1308702.0
 **No Premine**, This is purely a coin for the community
 
 **Pools**
-https://mnd.suprnova.cc
 https://pool.mn/mnd
 http://ispace.co.uk
 https://mnd.thecryptoworld.org
 http://www.zpool.ca/ (Multipool)
 https://www.ipominer.com/
+
+http://coinminer.net
+Pool URL: stratum+tcp://coinminer.net:8892 
+Username: Your_MindCoin_Address_For_Payment 
+Password: Not required
